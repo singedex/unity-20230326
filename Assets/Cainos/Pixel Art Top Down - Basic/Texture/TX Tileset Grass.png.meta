@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1522,8 +1522,8 @@ TextureImporter:
       TX Tileset Grass_16: 244765276
       TX Tileset Grass_35: 114304429
       TX Tileset Grass_1: -817215263
-      TX Tileset Grass_10: 1234307480
       TX Tileset Grass_46: 1706125747
+      TX Tileset Grass_10: 1234307480
       TX Tileset Grass_13: 1896884650
       TX Tileset Grass_27: 624036918
       TX Tileset Grass_33: -813625554
